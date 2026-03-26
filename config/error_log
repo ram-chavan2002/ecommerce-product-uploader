@@ -1,0 +1,10 @@
+[13-Mar-2026 06:34:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'sai7755_blog'@'localhost' (using password: YES) in /home/sai7755/public_html/seller_app_fk/config/db.php:10
+Stack trace:
+#0 /home/sai7755/public_html/seller_app_fk/config/db.php(10): mysqli_connect()
+#1 {main}
+  thrown in /home/sai7755/public_html/seller_app_fk/config/db.php on line 10
+[13-Mar-2026 06:36:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'sai7755_blog'@'localhost' (using password: YES) in /home/sai7755/public_html/seller_app_fk/config/db.php:10
+Stack trace:
+#0 /home/sai7755/public_html/seller_app_fk/config/db.php(10): mysqli_connect()
+#1 {main}
+  thrown in /home/sai7755/public_html/seller_app_fk/config/db.php on line 10
