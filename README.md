@@ -29,4 +29,4 @@ To simplify the process of listing products on multiple platforms and save time 
 
 # Developer
 Ram Tukaram Chavan 
-(full stack python & php)
+(full stack python & php developer)
